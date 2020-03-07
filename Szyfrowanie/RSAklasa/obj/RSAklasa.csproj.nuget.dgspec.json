@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj": {}
+    "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj": {
+    "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj",
+        "projectUniqueName": "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj",
         "projectName": "RSAklasa",
-        "projectPath": "E:\\C#\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj",
+        "projectPath": "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\RSAklasa\\RSAklasa.csproj",
         "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Szyfrowanie\\RSAklasa\\obj\\",
+        "outputPath": "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\RSAklasa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,12 +47,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.2, 3.0.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

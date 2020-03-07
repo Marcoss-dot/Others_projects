@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj": {}
+    "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj": {}
   },
   "projects": {
-    "E:\\C#\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj": {
+    "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj",
+        "projectUniqueName": "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj",
         "projectName": "TestyConsolowe",
-        "projectPath": "E:\\C#\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj",
+        "projectPath": "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\TestyConsolowe\\TestyConsolowe.csproj",
         "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\Szyfrowanie\\TestyConsolowe\\obj\\",
+        "outputPath": "E:\\C#\\GitHub\\Others_projects\\Szyfrowanie\\TestyConsolowe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,12 +47,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.2, 3.0.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

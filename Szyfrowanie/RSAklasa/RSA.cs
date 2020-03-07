@@ -114,7 +114,7 @@ class RSACSPSample
 	}
 
 
-	public static long ObliczD(long e, long p_, long q_)
+	public static long CalcueteD(long e, long p_, long q_)
 	{
 		long fi = (p_ - 1) * (q_ - 1);
 		int a, ap, u, up, v, vp, q;
@@ -148,7 +148,7 @@ class RSACSPSample
 		} while (ap != 0);
 		return (long)u;
 	}
-	public static long ObliczD(long e, long fi)
+	public static long CalcueteD(long e, long fi)
 	{
 		
 		int a, ap, u, up, v, vp, q;

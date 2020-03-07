@@ -8,3 +8,13 @@ E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.pdb
 E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.Szyfruj.resources
 E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csprojAssemblyReference.cache
 E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.RSA.resources
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe.config
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.pdb
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csprojAssemblyReference.cache
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.RSA.resources
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.Properties.Resources.resources
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.Szyfruj.resources
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.GenerateResource.cache
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.exe
+E:\C#\GitHub\Others_projects\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.pdb
