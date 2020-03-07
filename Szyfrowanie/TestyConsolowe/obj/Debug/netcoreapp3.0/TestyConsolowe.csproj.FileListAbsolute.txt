@@ -1,0 +1,11 @@
+E:\C#\Szyfrowanie\TestyConsolowe\bin\Debug\netcoreapp3.0\TestyConsolowe.exe
+E:\C#\Szyfrowanie\TestyConsolowe\bin\Debug\netcoreapp3.0\TestyConsolowe.deps.json
+E:\C#\Szyfrowanie\TestyConsolowe\bin\Debug\netcoreapp3.0\TestyConsolowe.runtimeconfig.json
+E:\C#\Szyfrowanie\TestyConsolowe\bin\Debug\netcoreapp3.0\TestyConsolowe.runtimeconfig.dev.json
+E:\C#\Szyfrowanie\TestyConsolowe\bin\Debug\netcoreapp3.0\TestyConsolowe.dll
+E:\C#\Szyfrowanie\TestyConsolowe\bin\Debug\netcoreapp3.0\TestyConsolowe.pdb
+E:\C#\Szyfrowanie\TestyConsolowe\obj\Debug\netcoreapp3.0\TestyConsolowe.csprojAssemblyReference.cache
+E:\C#\Szyfrowanie\TestyConsolowe\obj\Debug\netcoreapp3.0\TestyConsolowe.AssemblyInfoInputs.cache
+E:\C#\Szyfrowanie\TestyConsolowe\obj\Debug\netcoreapp3.0\TestyConsolowe.AssemblyInfo.cs
+E:\C#\Szyfrowanie\TestyConsolowe\obj\Debug\netcoreapp3.0\TestyConsolowe.dll
+E:\C#\Szyfrowanie\TestyConsolowe\obj\Debug\netcoreapp3.0\TestyConsolowe.pdb

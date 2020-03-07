@@ -1,0 +1,11 @@
+E:\C#\Szyfrowanie\RSAklasa\bin\Debug\netcoreapp3.0\RSAklasa.exe
+E:\C#\Szyfrowanie\RSAklasa\bin\Debug\netcoreapp3.0\RSAklasa.deps.json
+E:\C#\Szyfrowanie\RSAklasa\bin\Debug\netcoreapp3.0\RSAklasa.runtimeconfig.json
+E:\C#\Szyfrowanie\RSAklasa\bin\Debug\netcoreapp3.0\RSAklasa.runtimeconfig.dev.json
+E:\C#\Szyfrowanie\RSAklasa\bin\Debug\netcoreapp3.0\RSAklasa.dll
+E:\C#\Szyfrowanie\RSAklasa\bin\Debug\netcoreapp3.0\RSAklasa.pdb
+E:\C#\Szyfrowanie\RSAklasa\obj\Debug\netcoreapp3.0\RSAklasa.csprojAssemblyReference.cache
+E:\C#\Szyfrowanie\RSAklasa\obj\Debug\netcoreapp3.0\RSAklasa.AssemblyInfoInputs.cache
+E:\C#\Szyfrowanie\RSAklasa\obj\Debug\netcoreapp3.0\RSAklasa.AssemblyInfo.cs
+E:\C#\Szyfrowanie\RSAklasa\obj\Debug\netcoreapp3.0\RSAklasa.dll
+E:\C#\Szyfrowanie\RSAklasa\obj\Debug\netcoreapp3.0\RSAklasa.pdb

@@ -1,0 +1,10 @@
+E:\C#\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe.config
+E:\C#\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe
+E:\C#\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.pdb
+E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.Properties.Resources.resources
+E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.GenerateResource.cache
+E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.exe
+E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.pdb
+E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.Szyfruj.resources
+E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csprojAssemblyReference.cache
+E:\C#\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.RSA.resources
